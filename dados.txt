@@ -3,9 +3,9 @@ Dados do aluno
 -Primeiro Nome: David
 -Profissão: Social Media
 -Cidade: Jandira
--O que faz nas horas vaga: Jogo Futebol
--Feedback sobre o curso Qualidade de Software: Excelente
--Feedback sobre a plataforma de estudo da EBAC: Bem feita
+-O que faz nas horas vaga: Jogo futebol
+-Feedback sobre o curso Qualidade de Software:Excelente
+-Feedback sobre a plataforma de estudo da EBAC: Muito bom
 
 Obrigado!!!
 
